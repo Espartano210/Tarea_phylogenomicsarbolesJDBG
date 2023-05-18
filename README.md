@@ -8,5 +8,6 @@ Hay muy pocas diferencias entre el árbol con particiones y el de las sin partic
 
 ## Árbol_ASTRAL
 
+![image](https://github.com/Espartano210/Tarea_phylogenomicsarbolesJDBG/assets/130587993/eaacf37d-6a96-4e6f-a4fb-4c3764b7d8e0)
 
 
