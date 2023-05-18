@@ -15,4 +15,5 @@ En el 2do clado, Neoceratodus_forsteri es la primer especie en divergir y luego 
 El ancestro de las especies del tercer clado divergieron antes que las del 1er y 2do clado. Latimeria_chalumnae es la primera especie en divergir dentro del tercer clado, seguido por Callorhinchus_milli, Lepisosteus_oculatus, Danio_rerio, terminando con Takifugu_rubripes y Orechromis_niloticus.
 
 Hay un total de aproximadamente 19 tiempos distintos en el que divergieron todas las especies de este árbol. En comparación de los árboles con y sin particiones, las especies que tienen la mayor cantidad de sustituciones, suelen ser las primeras en divergir y las que tienen la menor cantidad de sustituciones son las que suelen divergir mucho tiempo después.
+
 ![image](https://github.com/Espartano210/Tarea_phylogenomicsarbolesJDBG/assets/130587993/8e1e4b63-c40d-4d53-810b-d631a4113398)
