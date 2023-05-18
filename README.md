@@ -10,9 +10,9 @@ Hay 4 clados, el 1er y 4to clado son monofiléticos mientras que el 2do y 3er cl
 ![image](https://github.com/Espartano210/Tarea_phylogenomicsarbolesJDBG/assets/130587993/e45a4ffb-c2ec-43b9-b9a7-5a867e801be6)
 
 ## Árbol_ASTRAL
-A diferencia de los árboles con y sin particiones, en este hay 3 clados y todos son monofiléticos. Entre más larga es la rama, es mayor la diferencia de la historia evolutiva respecto a su especie hermana. En el primero clado, Silurana_tropicalis fue la primer especie de este clado en divergir.
+A diferencia de los árboles con y sin particiones, en este hay 3 clados y todos son monofiléticos. Entre más larga es la rama, es mayor la diferencia de la historia evolutiva respecto a su especie hermana. En el primero clado, Silurana_tropicalis fue la primer especie de este clado en divergir. Las especies del 4to grupo son las más recientes en divergir dentro de este clado.
 En el 2do clado, Neoceratodus_forsteri es la primer especie en divergir y luego le siguen las otras dos especies del 2 grupo de este clado.
 El ancestro de las especies del tercer clado divergieron antes que las del 1er y 2do clado. Latimeria_chalumnae es la primera especie en divergir dentro del tercer clado, seguido por Callorhinchus_milli, Lepisosteus_oculatus, Danio_rerio, terminando con Takifugu_rubripes y Orechromis_niloticus.
 
-Hay un total de aproximadamente 19 tiempos distintos en el que divergieron todas las especies de este árbol. En comparación de los árboles con y sin particiones, las especies que tienen la mayor cantidad de sustituciones, suelen ser las primeras en divergir y las que tienen la menor cantidad de sustituciones son las que suelen divergir mucho tiempo después.d
+Hay un total de aproximadamente 19 tiempos distintos en el que divergieron todas las especies de este árbol. En comparación de los árboles con y sin particiones, las especies que tienen la mayor cantidad de sustituciones, suelen ser las primeras en divergir y las que tienen la menor cantidad de sustituciones son las que suelen divergir mucho tiempo después.
 ![image](https://github.com/Espartano210/Tarea_phylogenomicsarbolesJDBG/assets/130587993/8e1e4b63-c40d-4d53-810b-d631a4113398)
